@@ -12,7 +12,7 @@ Related repositories:
 
 [https://github.com/bitcoin-abe/bitcoin-abe](https://github.com/bitcoin-abe/bitcoin-abe)
 
-- [ ] File can be read however it returns unrelated data in connection with Hacash.
+:scroll: File can be read however it returns unrelated data in related to Hacash.
 
 # Usage
 
