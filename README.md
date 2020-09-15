@@ -18,5 +18,8 @@ Related repositories:
 
 ```
 python analyze.py blk.dat
-```
 
+```
+## Notes
+
+The information/data stored on blk.dat is binary, so if you edit/open the file in a text editor it doesn't show any readable format. Please refer here: [https://learnmeabitcoin.com/technical/blkdat](https://learnmeabitcoin.com/technical/blkdat)
