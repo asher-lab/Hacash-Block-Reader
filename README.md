@@ -13,6 +13,8 @@ Related repositories:
 [https://github.com/bitcoin-abe/bitcoin-abe](https://github.com/bitcoin-abe/bitcoin-abe)
 
 :scroll: File can be read however it returns unrelated data in connection with Hacash.
+ Need some few adjustment to the program
+ Or maybe I don't read it well?
 
 # Usage
 
